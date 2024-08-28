@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843729145245",
+    "project_id": "tecommerceapp-307c8",
+    "storage_bucket": "tecommerceapp-307c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843729145245:android:d26e2c413378a336b13374",
+        "android_client_info": {
+          "package_name": "com.example.t_ecommerce_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843729145245-hui5b5lbfqdr66na2kj68um6orobgv33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.t_ecommerce_project",
+            "certificate_hash": "e2a789bbbdc5ab043f4364bd3696aaf48f2ed420"
+          }
+        },
+        {
+          "client_id": "843729145245-ojtn51r2v4gl0it5ndb3p28p1v258jdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1ppV3Tb-wakI_6t9Lb4pWUkZRrg-0n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843729145245-ojtn51r2v4gl0it5ndb3p28p1v258jdi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843729145245-5qnetuft28sf9giiufobtb9nvr2jktq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tEcommerceProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
